@@ -1,0 +1,10 @@
+.fondo {
+    background-image: url("../Imagenes/939716.png");
+    margin-top: 20%;
+    margin-left:40%;
+}
+.entrada {
+    font-size: xx-large;
+    font-style:italic;
+    color:aquamarine;
+}

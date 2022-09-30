@@ -1,0 +1,31 @@
+.fondo {
+    background-image: url("../Imagenes/939716.png");
+}
+.cuadro_login {
+    height:300px;
+    width:300px;
+    border-style: double;
+    box-shadow: 5px 10px;
+    margin:0 auto;
+}
+.formulario {
+    position: absolute;
+    margin-left: 60px;
+    margin-top:-90px;
+}
+.submit {
+    text-align: center;
+}
+.user {
+    font-size:larger;
+    color: rgb(84,76,95);
+}
+.contraseña {
+    font-size:larger;
+    color: rgb(84,76,95);
+}
+.titulo {
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
